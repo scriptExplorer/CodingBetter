@@ -69,4 +69,10 @@ Mobile
 
 
 
+### Reference
+
+[latency-numbers-for-programmers-web-developmen](http://architects.dzone.com/articles/every-programmer-should-know)
+
+ [http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html](http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
+
 
